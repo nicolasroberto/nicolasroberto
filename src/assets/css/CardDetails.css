@@ -1,0 +1,37 @@
+.card-body {
+  display: flex;
+  padding: 5px;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.detailImg:hover {
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2a9e5', endColorstr='#2b94e5',GradientType=1 );
+  filter: brightness(115%);
+  transition: all 0.5s ease-in-out;
+  color: #212121;
+}
+
+.cardDetail {
+  transition: all 0.5s ease-in;
+  opacity: 1;
+  background: #e2a9e5;
+  background: -moz-linear-gradient(-45deg, #e2a9e554 15%, #2b94e54d 100%);
+  background: -webkit-linear-gradient(-45deg, #e2a9e550 15%, #2b94e552 100%);
+  background: linear-gradient(
+    135deg,
+    #e2a9e54f 15%rgba (43, 148, 229, 0.479) 6c 100%
+  );
+}
+
+.cardDetail:hover {
+  opacity: 1;
+  background: #e2a9e5;
+  background: -moz-linear-gradient(-45deg, #e2a9e57a 15%, #2b94e57a 100%);
+  background: -webkit-linear-gradient(-45deg, #e2a9e57c 15%, #2b94e57c 100%);
+  background: linear-gradient(
+    135deg,
+    #e2a9e57c 15%rgba (43, 148, 229, 0.479) 6c 100%
+  );
+  transition: all 0.5s ease-out;
+}

@@ -10,7 +10,7 @@ export const Skills = () => {
         <div className="container">
           <div className="row">
             <div className="col-md-12">
-              <h1 className="fw-light titleMB">Tecnologías:</h1>
+              <h2 className="fw-light titleMB">Tecnologías:</h2>
             </div>
           </div>
           <div className="row">

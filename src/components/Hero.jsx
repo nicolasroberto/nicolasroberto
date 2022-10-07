@@ -6,16 +6,21 @@ export const Hero = () => {
       <section className="py-5 text-center container-fluid bg-img">
         <div className="row py-lg-5">
           <div className="col-lg-8 col-md-8 mx-auto">
-            <div class="glass">
-              <h1 className="fw-light titleMB">Sobre mí:</h1>
+            <div className="glass">
+              <h1 className="fw-light titleMB">Nicolás Roberto:</h1>
               <p className="lead text-dark">
                 Soy técnico en programación especializado en Frontend, de Buenos
                 Aires, Argentina. Mi experiencia laboral se basa en 4 meses de
-                prácticas, tuve dos durante mi período académico en Teclab, de
-                dos meses de duración cada una. En dichas prácticas, continué mi
-                capacitación como frontend. Luego, realicé un curso intensivo
-                (Summerhack 2022) Fullstack Js con React.js y Firebase en
-                Escuela Dev Rock.
+                prácticas como frontend, durante mi período académico en Teclab.
+                Actualmente estoy realizando un curso de React.JS en{" "}
+                <a
+                  href="https://www.solvd.com/"
+                  target="_blank"
+                  className="text-dark"
+                >
+                  Solvd,Inc
+                </a>
+                .
               </p>
               <div
                 className="btn-group"
@@ -25,7 +30,7 @@ export const Hero = () => {
                 <a
                   href="https://drive.google.com/file/d/1_00g_XNZeSEM2neo6Xilyx4n8ueaO0my/view?usp=sharing"
                   type="button"
-                  className="btn btn-outline-primary"
+                  className="btn btn-outline-secondary"
                   target="_blank"
                 >
                   CV español
@@ -33,7 +38,7 @@ export const Hero = () => {
                 <a
                   href="https://drive.google.com/file/d/1GF06-RKZS8XK2VwZIQCNZqOUoI55GgLT/view?usp=sharing"
                   type="button"
-                  className="btn btn-outline-primary"
+                  className="btn btn-outline-secondary"
                   target="_blank"
                 >
                   CV inglés

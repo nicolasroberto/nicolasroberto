@@ -3,6 +3,7 @@ import { Footer } from "../components/Footer";
 
 export const Layout = (props) => {
   const { children } = props;
+
   return (
     <>
       <Header></Header>

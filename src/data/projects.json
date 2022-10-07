@@ -3,60 +3,60 @@
     "id": 1,
     "furl": "JustClickStore",
     "name": "Just Click Store",
-    "Description": "E-commerce utilizando FakeStoreAPI. Realizado con vanilla JavaScript, mobile first. Proyecto realizado en Escuela Dev Rock.",
+    "description": "E-commerce utilizando FakeStoreAPI. Realizado con vanilla JavaScript, mobile first. Proyecto realizado en Escuela Dev Rock.",
     "img": "https://iili.io/hM6q1p.gif",
     "url": "https://justclick-store.web.app",
-    "repo": "https://github.com/nicolasroberto/justclick-store",
+    "code": "https://github.com/nicolasroberto/justclick-store",
     "date": "Abril 2022"
   },
   {
     "id": 2,
     "furl": "Invocados",
     "name": "Invocados",
-    "Description": "Juego de azar de cartas. Creado con vanilla JavaScript. Proyecto realizado en Escuela Dev Rock.",
+    "description": "Juego de azar de cartas. Creado con vanilla JavaScript. Proyecto realizado en Escuela Dev Rock.",
     "img": "https://iili.io/hM6o7t.png",
     "url": "https://invocadosgame.web.app/",
-    "repo": "https://github.com/nicolasroberto/Invocados-game",
+    "code": "https://github.com/nicolasroberto/Invocados-game",
     "date": "Marzo 2022"
   },
   {
     "id": 3,
     "furl": "MemoList",
     "name": "Memo-List",
-    "Description": "To-do list realizado en vanilla JavaScript. Proyecto realizado en Escuela Dev Rock.",
+    "description": "To-do list realizado en vanilla JavaScript. Proyecto realizado en Escuela Dev Rock.",
     "img": "https://iili.io/hM63hJ.png",
     "url": "https://list-memo.web.app/",
-    "repo": "https://github.com/nicolasroberto/To-do-list",
+    "code": "https://github.com/nicolasroberto/To-do-list",
     "date": "Febrero 2022"
   },
   {
     "id": 4,
     "furl": "DisneyTruch",
     "name": "Disney-Truch",
-    "Description": "Clon de landing page de Disney+, versión argentina. Proyecto realizado en Escuela Dev Rock.",
+    "description": "Clon de landing page de Disney+, versión argentina. Proyecto realizado en Escuela Dev Rock.",
     "img": "https://iili.io/hM6n2I.png",
     "url": "https://disneytruch.web.app",
-    "repo": "https://github.com/nicolasroberto/Disney-clon",
+    "code": "https://github.com/nicolasroberto/Disney-clon",
     "date": "Febrero 2022"
   },
   {
     "id": 5,
     "furl": "Survirtual2",
     "name": "Survirtual2",
-    "Description": "Proyecto mobile first realizado en Survirtual, con Flexbox y JavaScript. Práctica profesionalizante 2.",
+    "description": "Proyecto mobile first realizado en Survirtual, con Flexbox y JavaScript. Práctica profesionalizante 2.",
     "img": "https://iili.io/hM6fBR.png",
     "url": "https://survirtual2.web.app/",
-    "repo": "https://github.com/nicolasroberto/survirtual2",
+    "code": "https://github.com/nicolasroberto/survirtual2",
     "date": "Noviembre 2021"
   },
   {
     "id": 6,
     "furl": "SurVirtual",
     "name": "Sur-virtual",
-    "Description": "Clon de landing page de Survirtual. Proyecto realizado en Survirtual, práctica profesionalizante 1.",
+    "description": "Clon de landing page de Survirtual. Proyecto realizado en Survirtual, práctica profesionalizante 1.",
     "img": "https://iili.io/hM6BrN.png",
     "url": "https://sur-virtual.web.app/",
-    "repo": "https://github.com/nicolasroberto/sur-virtual",
+    "code": "https://github.com/nicolasroberto/sur-virtual",
     "date": "Agosto 2021"
   }
 ]

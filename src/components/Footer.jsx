@@ -1,12 +1,10 @@
-import React from "react";
-
 export const Footer = () => {
   return (
     <>
-      <footer className="text-muted py-4 bg-dark bg-gradient">
+      <footer className="text-muted py-4 bg-dark bg-gradient ">
         <div className="container">
           <p className="float-end mb-1">
-            <a href="#" className="link-warning">
+            <a href="#" className="link-light">
               Arriba
             </a>
           </p>
@@ -17,7 +15,7 @@ export const Footer = () => {
             Soy Nicolás Roberto, visitá mi{" "}
             <a
               href="https://www.linkedin.com/in/nicol%C3%A1s-roberto/"
-              className="link-warning"
+              className="link-light"
               target="_blank"
             >
               Linkedin
@@ -26,7 +24,7 @@ export const Footer = () => {
             <a
               href="https://github.com/nicolasroberto"
               target="_blank"
-              className="link-warning"
+              className="link-light"
             >
               GitHub
             </a>

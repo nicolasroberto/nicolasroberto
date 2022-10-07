@@ -8,7 +8,7 @@ export const Projects = () => {
       <section className="py-5 text-center container">
         <div className="album py-5">
           <div className="container">
-            <h1 className="fw-light titleMB">Proyectos:</h1>
+            <h2 className="fw-light titleMB">Proyectos:</h2>
             <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
               {Project.map((project) => (
                 <Card project={project} key={project.id} />
