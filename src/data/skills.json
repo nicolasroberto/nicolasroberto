@@ -26,17 +26,22 @@
   },
   {
     "id": 6,
+    "name": "Material UI",
+    "logo": "material-ui"
+  },
+  {
+    "id": 7,
     "name": "Firebase",
     "logo": "firebase"
   },
   {
-    "id": 7,
-    "name": "Python",
-    "logo": "python"
+    "id": 8,
+    "name": "GitHub",
+    "logo": "github-icon"
   },
   {
-    "id": 8,
-    "name": "MySQL",
-    "logo": "mysql"
+    "id": 9,
+    "name": "NEXT.js",
+    "logo": "nextjs-icon"
   }
 ]

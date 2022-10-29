@@ -3,9 +3,11 @@
   background-clip: border-box;
   align-items: center;
   padding: 30px 0;
+  filter: grayscale(75%);
 }
 
 .skillcard:hover {
+  filter: none;
   background-color: #ffffff !important;
 }
 
