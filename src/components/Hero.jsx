@@ -9,10 +9,9 @@ export const Hero = () => {
             <div className="glass">
               <h1 className="fw-light titleMB">Nicolás Roberto:</h1>
               <p className="lead text-dark">
-                Soy técnico en programación especializado en Frontend, de Buenos
-                Aires, Argentina. Mi experiencia laboral se basa en 4 meses de
-                prácticas como frontend, durante mi período académico en Teclab.
-                Actualmente estoy realizando un curso de React.JS en{" "}
+                Soy Técnico Superior en Programación, especializado en
+                desarrollo front-end. Hasta el mes de diciembre de 2022,
+                participé de un curso de selección de personal de React.js en de{" "}
                 <a
                   href="https://www.solvd.com/"
                   target="_blank"
@@ -20,7 +19,9 @@ export const Hero = () => {
                 >
                   Solvd,Inc
                 </a>
-                .
+                . Dicho curso duró 6 meses y durante el último desarrollamos una
+                plataforma ecommerce grupal con Next.js, Material UI y React
+                Query.
               </p>
               <div
                 className="btn-group"
@@ -28,7 +29,7 @@ export const Hero = () => {
                 aria-label="Basic outlined example"
               >
                 <a
-                  href="https://drive.google.com/file/d/1_00g_XNZeSEM2neo6Xilyx4n8ueaO0my/view?usp=sharing"
+                  href="https://www.canva.com/design/DAE-SSocO0o/TeiQk92fuDO1VkqgR6O3xQ/view?utm_content=DAE-SSocO0o&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
                   type="button"
                   className="btn btn-outline-secondary"
                   target="_blank"
@@ -36,7 +37,7 @@ export const Hero = () => {
                   CV español
                 </a>
                 <a
-                  href="https://drive.google.com/file/d/1GF06-RKZS8XK2VwZIQCNZqOUoI55GgLT/view?usp=sharing"
+                  href="https://www.canva.com/design/DAFWvKXVIKI/vwQWFx5a1EJlus9fP58LdA/view?utm_content=DAFWvKXVIKI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
                   type="button"
                   className="btn btn-outline-secondary"
                   target="_blank"

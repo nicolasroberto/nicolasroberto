@@ -1,46 +1,16 @@
 [
   {
     "id": 1,
-    "furl": "JustClickStore",
-    "name": "Just Click Store",
-    "description": "E-commerce utilizando FakeStoreAPI. Realizado con vanilla JavaScript, mobile first. Proyecto realizado en Escuela Dev Rock.",
-    "img": "https://iili.io/hM6q1p.gif",
-    "url": "https://justclick-store.web.app",
-    "code": "https://github.com/nicolasroberto/justclick-store",
-    "date": "Abril 2022"
+    "furl": "SurVirtual",
+    "name": "Sur-virtual",
+    "description": "Clon de landing page de Survirtual. Proyecto realizado en Survirtual, práctica profesionalizante 1.",
+    "img": "https://iili.io/hM6BrN.png",
+    "url": "https://sur-virtual.web.app/",
+    "code": "https://github.com/nicolasroberto/sur-virtual",
+    "date": "Agosto 2021"
   },
   {
     "id": 2,
-    "furl": "Invocados",
-    "name": "Invocados",
-    "description": "Juego de azar de cartas. Creado con vanilla JavaScript. Proyecto realizado en Escuela Dev Rock.",
-    "img": "https://iili.io/hM6o7t.png",
-    "url": "https://invocadosgame.web.app/",
-    "code": "https://github.com/nicolasroberto/Invocados-game",
-    "date": "Marzo 2022"
-  },
-  {
-    "id": 3,
-    "furl": "MemoList",
-    "name": "Memo-List",
-    "description": "To-do list realizado en vanilla JavaScript. Proyecto realizado en Escuela Dev Rock.",
-    "img": "https://iili.io/hM63hJ.png",
-    "url": "https://list-memo.web.app/",
-    "code": "https://github.com/nicolasroberto/To-do-list",
-    "date": "Febrero 2022"
-  },
-  {
-    "id": 4,
-    "furl": "DisneyTruch",
-    "name": "Disney-Truch",
-    "description": "Clon de landing page de Disney+, versión argentina. Proyecto realizado en Escuela Dev Rock.",
-    "img": "https://iili.io/hM6n2I.png",
-    "url": "https://disneytruch.web.app",
-    "code": "https://github.com/nicolasroberto/Disney-clon",
-    "date": "Febrero 2022"
-  },
-  {
-    "id": 5,
     "furl": "Survirtual2",
     "name": "Survirtual2",
     "description": "Proyecto mobile first realizado en Survirtual, con Flexbox y JavaScript. Práctica profesionalizante 2.",
@@ -50,13 +20,53 @@
     "date": "Noviembre 2021"
   },
   {
+    "id": 3,
+    "furl": "DisneyTruch",
+    "name": "Disney-Truch",
+    "description": "Clon de landing page de Disney+, versión argentina. Proyecto realizado en Escuela Dev Rock.",
+    "img": "https://iili.io/hM6n2I.png",
+    "url": "https://disneytruch.web.app",
+    "code": "https://github.com/nicolasroberto/Disney-clon",
+    "date": "Febrero 2022"
+  },
+  {
+    "id": 4,
+    "furl": "MemoList",
+    "name": "Memo-List",
+    "description": "To-do list realizado en vanilla JavaScript. Proyecto realizado en Escuela Dev Rock.",
+    "img": "https://iili.io/hM63hJ.png",
+    "url": "https://list-memo.web.app/",
+    "code": "https://github.com/nicolasroberto/To-do-list",
+    "date": "Febrero 2022"
+  },
+  {
+    "id": 5,
+    "furl": "Invocados",
+    "name": "Invocados",
+    "description": "Juego de azar de cartas. Creado con vanilla JavaScript. Proyecto realizado en Escuela Dev Rock.",
+    "img": "https://iili.io/hM6o7t.png",
+    "url": "https://invocadosgame.web.app/",
+    "code": "https://github.com/nicolasroberto/Invocados-game",
+    "date": "Marzo 2022"
+  },
+  {
     "id": 6,
-    "furl": "SurVirtual",
-    "name": "Sur-virtual",
-    "description": "Clon de landing page de Survirtual. Proyecto realizado en Survirtual, práctica profesionalizante 1.",
-    "img": "https://iili.io/hM6BrN.png",
-    "url": "https://sur-virtual.web.app/",
-    "code": "https://github.com/nicolasroberto/sur-virtual",
-    "date": "Agosto 2021"
+    "furl": "JustClickStore",
+    "name": "Just Click Store",
+    "description": "E-commerce utilizando FakeStoreAPI. Realizado con vanilla JavaScript, mobile first. Proyecto realizado en Escuela Dev Rock.",
+    "img": "https://iili.io/hM6q1p.gif",
+    "url": "https://justclick-store.web.app",
+    "code": "https://github.com/nicolasroberto/justclick-store",
+    "date": "Abril 2022"
+  },
+  {
+    "id": 7,
+    "furl": "Calculator",
+    "name": "Calculator App",
+    "description": "Entregable del curso de Solvd. Calculadora pixel-perfect realizada con Material-ui.",
+    "img": "https://iili.io/HaOgeeI.png",
+    "url": "https://solvd-calculator.web.app/",
+    "code": "https://github.com/qaprosoft/react-laba-arg-1/tree/main/homeworks/nicolas-roberto/19-react-api",
+    "date": "Octubre 2022"
   }
 ]
