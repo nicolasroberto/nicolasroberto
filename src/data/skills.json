@@ -11,36 +11,46 @@
   },
   {
     "id": 3,
+    "name": "React-Native",
+    "logo": "react"
+  },
+  {
+    "id": 4,
     "name": "HTML5",
     "logo": "html-5"
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "CSS3",
     "logo": "css-3"
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Bootstrap",
     "logo": "bootstrap"
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "Material UI",
     "logo": "material-ui"
   },
   {
     "id": 8,
+    "name": "Tailwind",
+    "logo": "tailwindcss-icon"
+  },
+  {
+    "id": 9,
     "name": "GitHub",
     "logo": "github-icon"
   },
   {
-    "id": 9,
+    "id": 10,
     "name": "NEXT.js",
     "logo": "nextjs-icon"
   },
   {
-    "id": 7,
+    "id": 11,
     "name": "Firebase",
     "logo": "firebase"
   }

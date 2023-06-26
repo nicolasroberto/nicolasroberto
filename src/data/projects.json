@@ -1,26 +1,6 @@
 [
   {
     "id": 1,
-    "furl": "SurVirtual",
-    "name": "Sur-virtual",
-    "description": "Clon de landing page de Survirtual. Proyecto realizado en Survirtual, práctica profesionalizante 1.",
-    "img": "https://iili.io/hM6BrN.png",
-    "url": "https://sur-virtual.web.app/",
-    "code": "https://github.com/nicolasroberto/sur-virtual",
-    "date": "Agosto 2021"
-  },
-  {
-    "id": 2,
-    "furl": "Survirtual2",
-    "name": "Survirtual2",
-    "description": "Proyecto mobile first realizado en Survirtual, con Flexbox y JavaScript. Práctica profesionalizante 2.",
-    "img": "https://iili.io/hM6fBR.png",
-    "url": "https://survirtual2.web.app/",
-    "code": "https://github.com/nicolasroberto/survirtual2",
-    "date": "Noviembre 2021"
-  },
-  {
-    "id": 3,
     "furl": "DisneyTruch",
     "name": "Disney-Truch",
     "description": "Clon de landing page de Disney+, versión argentina. Proyecto realizado en Escuela Dev Rock.",
@@ -30,7 +10,7 @@
     "date": "Febrero 2022"
   },
   {
-    "id": 4,
+    "id": 2,
     "furl": "MemoList",
     "name": "Memo-List",
     "description": "To-do list realizado en vanilla JavaScript. Proyecto realizado en Escuela Dev Rock.",
@@ -40,7 +20,7 @@
     "date": "Febrero 2022"
   },
   {
-    "id": 5,
+    "id": 3,
     "furl": "Invocados",
     "name": "Invocados",
     "description": "Juego de azar de cartas. Creado con vanilla JavaScript. Proyecto realizado en Escuela Dev Rock.",
@@ -50,7 +30,7 @@
     "date": "Marzo 2022"
   },
   {
-    "id": 6,
+    "id": 4,
     "furl": "JustClickStore",
     "name": "Just Click Store",
     "description": "E-commerce utilizando FakeStoreAPI. Realizado con vanilla JavaScript, mobile first. Proyecto realizado en Escuela Dev Rock.",
@@ -60,7 +40,7 @@
     "date": "Abril 2022"
   },
   {
-    "id": 7,
+    "id": 5,
     "furl": "Calculator",
     "name": "Calculator App",
     "description": "Entregable del curso de Solvd. Calculadora pixel-perfect realizada con Material-ui.",
@@ -68,5 +48,33 @@
     "url": "https://solvd-calculator.web.app/",
     "code": "https://github.com/qaprosoft/react-laba-arg-1/tree/main/homeworks/nicolas-roberto/19-react-api",
     "date": "Octubre 2022"
+  },
+  {
+    "id": 6,
+    "furl": "Sports App",
+    "name": "Sports App",
+    "description": "Proyecto grupal para No Country. Desarrollado con React Native, Expo en conjunto con NodeJS + Express en el backend y bases de datos en MySQL.",
+    "img": "https://iili.io/HPs4EXI.png",
+    "url": "https://expo.dev/@ezequielmatiasb/no-sports?serviceType=classic&distribution=expo-go",
+    "code": "https://github.com/No-Country/C9-G38-FT-ReactNative",
+    "date": "Feb-Mar 2023"
+  },{
+    "id": 97,
+    "furl": "TorneoPalooza",
+    "name": "TorneoPalooza",
+    "description": "Proyecto grupal para No Country. Se utilizó React Native, Expo en conjunto con Nativewind (Tailwind), Firebase para el backend y bases de datos.",
+    "img": "https://iili.io/HPsirrX.png",
+    "url": "https://expo.dev/@ezequielmatiasb/tournament-app?serviceType=classic&distribution=expo-go",
+    "code": "https://github.com/No-Country/s7-26-t-ReactNative",
+    "date": "Mar-Abr 2023"
+  },{
+    "id": 8,
+    "furl": "CareerWatch",
+    "name": "CareerWatch",
+    "description": "Proyecto grupal para No Country. Realizado con React.js y Tailwind para el Frontend. Java, Spring Boot y AWS para el Backend.",
+    "img": "https://iili.io/HPs6P6X.png",
+    "url": "https://career-watch.web.app/",
+    "code": "https://github.com/No-Country/S8-12-T-Java-React",
+    "date": "May-Jun 2023"
   }
 ]
